@@ -4,10 +4,12 @@ Daily learning
 
 Project developed at the Bootcamp Cloud DevOps Experience - Banco Carrefour with guidance from specialist [Denilson Bonatti](https://github.com/denilsonbonatti "Denilson Bonatti").
 Learning how to use Docker Compose to run an HTML application in an Apache Container.
+
 Steps:
-    - Create a YML file with the definitions of an Apache server (httpd);
-    - Specify in the YML file the location where the application files will be located.  
-    - And upload the YML file and application to a repository on GitHub.
+
+- Create a YML file with the definitions of an Apache server (httpd);
+- Specify in the YML file the location where the application files will be located.  
+- And upload the YML file and application to a repository on GitHub.
 
 [LICENSE](/LICENSE)
 
